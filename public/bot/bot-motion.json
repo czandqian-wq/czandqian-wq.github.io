@@ -1,0 +1,24 @@
+{
+  "type": "animated-webp-set",
+  "width": 256,
+  "height": 411,
+  "frameDurationMs": 42,
+  "transparent": true,
+  "actions": {
+    "idle": {
+      "src": "/bot/bot-idle-animated.webp",
+      "frameCount": 45,
+      "durationMs": 1890
+    },
+    "nod": {
+      "src": "/bot/bot-nod-animated.webp",
+      "frameCount": 62,
+      "durationMs": 2604
+    },
+    "work": {
+      "src": "/bot/bot-work-animated.webp",
+      "frameCount": 62,
+      "durationMs": 2604
+    }
+  }
+}

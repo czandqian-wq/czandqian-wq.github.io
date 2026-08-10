@@ -1,0 +1,12 @@
+{
+  "type": "sprite-atlas",
+  "atlasWidth": 3600,
+  "atlasHeight": 3210,
+  "cellWidth": 400,
+  "cellHeight": 642,
+  "columns": 9,
+  "rows": 5,
+  "frameCount": 45,
+  "fps": 24,
+  "loop": true
+}

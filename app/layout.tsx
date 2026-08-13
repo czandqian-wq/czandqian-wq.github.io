@@ -6,9 +6,9 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: "个人网站",
-  description: "七安的个人网站：土木工程研究、AI 数据训练学习、项目实践与成长路线。",
-  keywords: ["七安", "AI 数据训练师", "大模型数据", "数据质量", "模型评测", "个人网站"],
-  authors: [{ name: "七安" }],
+  description: "陈壮的个人网站：土木工程研究、AI 数据训练学习、项目实践与成长路线。",
+  keywords: ["陈壮", "AI 数据训练师", "大模型数据", "数据质量", "模型评测", "个人网站"],
+  authors: [{ name: "陈壮" }],
   category: "portfolio",
   alternates: { canonical: "/" },
   icons: { icon: "/favicon.svg" },
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "个人网站",
     description: "记录研究、AI 数据学习、项目实践与持续成长。",
     url: "/",
-    images: [{ url: "/og.png", width: 1754, height: 900, alt: "七安的 AI 数据个人网站" }],
+    images: [{ url: "/og.png", width: 1754, height: 900, alt: "陈壮的 AI 数据个人网站" }],
   },
   twitter: {
     card: "summary_large_image",

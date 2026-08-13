@@ -67,7 +67,7 @@ test("keeps editable content separate and preserves key interactions", async () 
   assert.match(content, /title: "自动化（Prompt 工程）"/);
   assert.doesNotMatch(content, /title: "数据质量控制"/);
   assert.doesNotMatch(content, /annotationDemo/);
-  assert.doesNotMatch(content, /七安的个人网站/);
+  assert.doesNotMatch(content, /陈壮的个人网站/);
   assert.match(content, /id: 3,[\s\S]*title: "AI 数据训练项目案例"/);
   assert.doesNotMatch(content, /title: "文本标注与质量控制案例"/);
   assert.match(page, /InteractiveStatusPanel/);

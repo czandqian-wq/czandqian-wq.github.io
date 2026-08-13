@@ -259,7 +259,7 @@ export default function Home() {
           <p className="placeholder-line">{siteContent.introduction}</p>
           <div className="hero-actions">
             <a className="button primary" href="#about">
-              认识七安 <span>↓</span>
+              认识陈壮 <span>↓</span>
             </a>
             <a className="button" href="#projects">查看项目 <span>↗</span></a>
           </div>
@@ -282,7 +282,7 @@ export default function Home() {
       <section className="section shell reveal" id="about">
         <div className="section-head">
           <strong>01</strong>
-          <p>ABOUT / 关于七安</p>
+          <p>ABOUT / 关于陈壮</p>
         </div>
         <div className="about-layout">
           <h2 className="display">{siteContent.aboutTitle}</h2>
@@ -516,7 +516,7 @@ export default function Home() {
             ))}
           </div>
           <footer className="site-footer">
-            <span>© 2026 七安</span>
+            <span>© 2026 陈壮</span>
             <span>RESEARCH · AI DATA · BUILDING IN PUBLIC</span>
           </footer>
         </div>

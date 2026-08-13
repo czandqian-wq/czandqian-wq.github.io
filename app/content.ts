@@ -26,7 +26,7 @@ export type RoadmapTask = {
 };
 
 export const siteContent = {
-  name: "七安",
+  name: "陈壮",
   heroName: "QI'AN",
   eyebrow: "CIVIL ENGINEERING × AI DATA",
   headline: "BUILDING WITH DATA.",
